@@ -1,0 +1,19 @@
+{
+  "name": "lingofusion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@deepgram/sdk": "^2.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "ffmpeg-static": "^5.2.0",
+    "mongoose": "^7.5.3",
+    "youtube-mp3-downloader": "^0.7.11"
+  }
+}
